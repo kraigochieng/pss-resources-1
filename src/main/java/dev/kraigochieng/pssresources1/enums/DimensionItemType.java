@@ -1,5 +1,10 @@
 package dev.kraigochieng.pssresources1.enums;
 
 public enum DimensionItemType {
-    DATA_ELEMENT_OPERAND
+    INDICATOR,
+    DATA_ELEMENT,
+    REPORTING_RATE,
+    PROGRAM_INDICATOR,
+    PROGRAM_DATA_ELEMENT,
+    PROGRAM_ATTRIBUTE
 }
